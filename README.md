@@ -45,13 +45,14 @@ Projeto de aplicativo acadêmico para facilitar o acompanhamento de horas comple
 > Projetos acadêmicos e colaborativos em evolução. Links dos repositórios podem ser adicionados quando estiverem disponíveis publicamente.
 
 
+
 ## 📊 Atividade no GitHub
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielUaren18&show_icons=true&theme=tokyonight" height="165" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=GabrielUaren18&show_icons=true&hide_border=true&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&bg_color=0D1117" alt="Estatísticas do GitHub" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielUaren18&layout=compact&theme=tokyonight" height="165" alt="Linguagens mais utilizadas" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielUaren18&layout=compact&hide_border=true&title_color=FF8C00&text_color=FFFFFF&bg_color=0D1117" alt="Linguagens mais utilizadas" />
 
 </div>
 
@@ -64,3 +65,4 @@ Projeto de aplicativo acadêmico para facilitar o acompanhamento de horas comple
 [Ver meus repositórios](https://github.com/GabrielUaren18?tab=repositories)
 
 </div>
+
